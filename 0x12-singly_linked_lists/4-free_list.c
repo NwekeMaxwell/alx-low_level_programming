@@ -17,5 +17,3 @@ void free_list(list_t *head)
         free(current);
     }
 }
-Footer
-© 2022 GitH
